@@ -13,14 +13,14 @@ class _SplashScreenState extends State<SplashScreen> {
   @override
   void initState() {
     super.initState();
-    getPrefs();
+    // getPrefs();
   }
 
   @override
   Widget build(BuildContext context) {
     return SplashScreen(
     
-    )
+    );
   }
 
  
